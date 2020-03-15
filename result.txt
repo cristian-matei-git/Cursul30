@@ -1,0 +1,5 @@
+1. Cel mai scurt cuvant: alberto
+2. Cel mai lung cuvant: florinica
+3. Primul cuvant in ordine alfabetica: alberto
+4. Ultimul cuvant in ordine alfabetica: zambila
+5. Numarul total de cuvinte: 4
